@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Luis Fernando Galviz, a passionate Full Stack Developer with a knack for crafting seamless web applications. My expertise spans the entire development stack, from building captivating user interfaces with React/Vue to crafting robust backends using Python on Azure.
+👋 Hi there! I'm Luis Fernando Galviz, a passionate Full Stack Developer with a knack for crafting seamless web applications. My expertise spans the entire development stack, from building captivating user interfaces with React/Vue to crafting robust backends using Node/Python on Azure.
 
 
 # 🌐 Socials:
