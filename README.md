@@ -28,4 +28,4 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LuisGalviz&theme=dark&hide_border=false)<br/>
-![LuisGalviz's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![LuisGalviz's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisGalviz&show_icons=true&theme=transparent)
