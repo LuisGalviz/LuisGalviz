@@ -3,10 +3,7 @@
 
 
 # 🌐 Socials:
-
-![](https://komarev.com/ghpvc/?username=LuisGalviz)
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lfgalviz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lfgalviz/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lfgalviz/) 
 
 # 💻 Tech Stack:
 ### Languaje 
@@ -23,8 +20,3 @@
 
 ### Mobile
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  <br/>
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=LuisGalviz&theme=dark&hide_border=false)<br/>
